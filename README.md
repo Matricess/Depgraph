@@ -20,7 +20,7 @@ Since the project is not yet published, you'll need to run it directly from the 
 **Setup:**
 
 ```bash
-git clone https://github.com/Kishan-Thanki/depgraph.git
+git clone https://github.com/Matricess/Depgraph.git
 ```
 
 ```bash
